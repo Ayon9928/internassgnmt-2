@@ -160,7 +160,7 @@ body{
 }
 
 .card-content {
-    padding: 5px;
+    padding: 20px;
 }
 
 h2, p {
@@ -209,7 +209,7 @@ h2, p {
     transform: translate(700px,-400px);
 }
 .fifthsection-card-image{
-    border-radius: 5%;
+    border-radius: 15px;
     width: 95%;
     margin-left: 8px;
     margin-top: 10px;
@@ -253,4 +253,27 @@ h2, p {
     transform: translate(100px,-65px);
     margin-left: -25px;
     width: 250px;
+}
+.sixthsection-text{
+    margin-top: -220px;
+    font-size: 25px;
+    width: 40%;
+}
+.sixthsection-container {
+    width: 80%;
+    max-width: 600px; /* You can adjust the max-width based on your design */
+    margin: 50px auto;
+    padding:20px;
+    padding-left: 50px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transform: translate(250px,-150px);
+}
+
+.sixthsection-text-head{
+    margin-bottom: 0px;
+}
+.sixthsection-text-header{
+    margin-top: -8px;
 }
